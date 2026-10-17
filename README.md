@@ -43,7 +43,9 @@
 
 ## 📈 Contribution Activity
 
-[![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=arpit-kumar-500&theme=react-dark)](https://github.com/arpit-kumar-500)
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
+
 
 
 ## 🏆 GitHub Trophies
