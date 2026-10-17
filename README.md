@@ -78,13 +78,10 @@ Learning, building, and improving every day.
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-kumar-500&theme=neon&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
-
 ---
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arpit-kumar-500&theme=neon&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
