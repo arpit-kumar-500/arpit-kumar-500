@@ -16,9 +16,11 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=arpit-kumar-500&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=arpit-kumar-500)
+
 <img src="https://img.shields.io/github/followers/arpit-kumar-500?label=GitHub%20Followers&style=flat&color=blue" alt="GitHub followers" />
-<img src="https://img.shields.io/badge/LinkedIn_Followers-100-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Followers" />
+<img src="https://img.shields.io/badge/LinkedIn_Followers-35-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Followers" />
 
 </div>
 
