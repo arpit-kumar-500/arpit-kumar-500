@@ -44,12 +44,6 @@
 
 ## 📈 Contribution Activity
 
-<div align="center">
-
-[![Arpit's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=arpit-kumar-500&bg_color=0d1117&color=00f5ff&line=2463eb&point=00f5ff&area=true&area_color=2463eb&title_color=00f5ff&hide_border=true)](https://github.com/arpit-kumar-500)
-
-</div>
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arpit-kumar-500&theme=neon&no-frame=false&no-bg=true&margin-w=4)
