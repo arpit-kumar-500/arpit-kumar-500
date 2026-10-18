@@ -42,7 +42,14 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=arpit-kumar-500&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+
 ## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpit-kumar-500&bg_color=0d1117&color=00e5ff&line=2563eb&point=00e5ff&area=false&hide_border=true&custom_title=ARPIT%20KUMAR's%20Contribution%20Graph" width="100%" alt="Arpit Kumar's GitHub Contribution Graph" />
+
+</div>
 
 
 ## 🏆 GitHub Trophies
