@@ -32,34 +32,7 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arpit-kumar-53008a430) 
 
 # 💻 Tech Stack
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### ☁️ Tech Logo Cloud
-
-<img src="./images/tech-cloud.gif"
-     width="320"
-     alt="Floating technology logos" />
-
-</td>
-<td align="center" width="50%">
-
-### 🌐 Rotating Tech Sphere
-
-<img src="./images/tech-sphere.gif"
-     width="320"
-     alt="Rotating sphere of technology logos" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
+[![Tech stack: GitHub, Git, Python, C++, CSS, HTML5, CSS Modules](https://stack.rajinkhan.com/v1/stack.svg?i=github%2Cgit%2Cpython%2Ccplusplus%2Ccss%2Chtml5%2Ccssmodules&s=fast&g=compact)](https://stack.rajinkhan.com/?i=github%2Cgit%2Cpython%2Ccplusplus%2Ccss%2Chtml5%2Ccssmodules&s=fast&g=compact)
 ### 🛠️ Languages & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
